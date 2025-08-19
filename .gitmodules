@@ -1,5 +1,0 @@
-[submodule "derivatives"]
-	path = derivatives
-	url = ./derivatives
-	datalad-id = ccbdd15e-6e46-46d6-bf7a-324be43908f4
-	datalad-url = git@github.com:nipreps-data/pet-nimh-dasb-derivatives.git
