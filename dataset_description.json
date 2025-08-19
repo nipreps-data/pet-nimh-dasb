@@ -1,0 +1,16 @@
+{
+    "BIDSVersion": "1.6.0",
+    "License": "CC0",
+    "Name": "NIMH DASB-PET database",
+    "Authors": [
+        "Adam G. Thomas",
+        "Martin Noergaard",
+	"Dara Cannon"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "This data was obtained from the national institute of mental health",
+    "Funding": [
+        "NIMH"
+    ],
+    "DatasetDOI": ""
+}
